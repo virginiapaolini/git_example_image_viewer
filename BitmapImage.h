@@ -13,8 +13,10 @@ public:
 
 private:
     int width, height;
-    char *buffer;
-    std::string name;
+    int *buffer; //array che contiene il valore dei colori
+    std::string name; //nome file
+    char channels;
+    char depth;
 };
 
 
