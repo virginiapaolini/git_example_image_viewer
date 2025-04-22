@@ -7,6 +7,6 @@
 
 #include <string>
 
-static const std::string VERSION = "v1.0";
+static const std::string VERSION = "v1.1";
 
 #endif //GIT_EXAMPLE_IMAGE_VIEWER_VERSIOJ_H
